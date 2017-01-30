@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muzyka</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="prev"><![CDATA[<]]></string>
+    <string name="back"><![CDATA[<<]]></string>
+    <string name="next"><![CDATA[>]]></string>
+    <string name="front"><![CDATA[>>]]></string>
+</resources>
